@@ -1,2 +1,1 @@
-Meu preimeiro sistema no GIT
-Brincando com o git e os comandos do Linux
+Meu preimeiro sistema no GIT (Alterado e atualizado!)
